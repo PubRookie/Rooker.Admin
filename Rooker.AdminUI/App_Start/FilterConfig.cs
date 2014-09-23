@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Rooker.AdminUI
+namespace PubRookie.AdminUI
 {
     public class FilterConfig
     {

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace Rooker.AdminUI.Models
+namespace PubRookie.AdminUI.Models
 {
     public class IndexViewModel
     {

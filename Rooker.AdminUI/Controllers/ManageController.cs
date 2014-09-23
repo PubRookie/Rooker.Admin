@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using Rooker.AdminUI.Models;
+using PubRookie.AdminUI.Models;
 
-namespace Rooker.AdminUI.Controllers
+namespace PubRookie.AdminUI.Controllers
 {
     [Authorize]
     public class ManageController : Controller

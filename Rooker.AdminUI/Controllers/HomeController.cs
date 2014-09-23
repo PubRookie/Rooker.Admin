@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Rooker.AdminUI.Controllers
+namespace PubRookie.AdminUI.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Rooker.AdminUI.Models
+namespace PubRookie.AdminUI.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

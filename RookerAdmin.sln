@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rooker.AdminUI", "Rooker.AdminUI\Rooker.AdminUI.csproj", "{E022F0B0-BBBC-4F51-B11B-D61AD56E3F22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubRookie.AdminUI", "Rooker.AdminUI\PubRookie.AdminUI.csproj", "{E022F0B0-BBBC-4F51-B11B-D61AD56E3F22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

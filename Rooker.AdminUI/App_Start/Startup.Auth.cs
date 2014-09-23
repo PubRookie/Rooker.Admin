@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using Rooker.AdminUI.Models;
+using PubRookie.AdminUI.Models;
 
-namespace Rooker.AdminUI
+namespace PubRookie.AdminUI
 {
     public partial class Startup
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(Rooker.AdminUI.Startup))]
-namespace Rooker.AdminUI
+[assembly: OwinStartupAttribute(typeof(PubRookie.AdminUI.Startup))]
+namespace PubRookie.AdminUI
 {
     public partial class Startup
     {
